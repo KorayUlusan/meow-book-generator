@@ -26,3 +26,4 @@ and then render the `.tex` yourself.
 
 - [ ] add spacing between paragraphs
 - [ ] random punctuation marks
+- [ ] add hyperrefs
